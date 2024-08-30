@@ -10,6 +10,8 @@ import org.springframework.context.annotation.Bean;
 @SpringBootApplication
 public class Application {
 
+	// 1:50 in the Video.
+
 	private static final Logger log = LoggerFactory.getLogger(Application.class);
 
 	public static void main(String[] args) {
